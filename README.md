@@ -10,45 +10,45 @@
 
 ## MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
-### 1. Bài 6.3: Hệ thống quản lý công việc và dự án
+### 1. Bài 6.3: Hệ thống quản lý công việc và tiến độ dự án
 * **Màn hình Chính / Tổng quan:**
-  ![Màn hình chính](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20dự%20án/docs/01_main_screen.png)
+  ![Màn hình chính](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20tiến%20độ%20dự%20án/docs/01_main_screen.png)
 * **Màn hình Quản lý Danh mục (CRUD):**
-  ![Màn hình CRUD](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20dự%20án/docs/02_crud_screen.png)
+  ![Màn hình CRUD](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20tiến%20độ%20dự%20án/docs/02_crud_screen.png)
 * **Màn hình Thực thi Nghiệp vụ chính:**
-  ![Màn hình Nghiệp vụ](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20dự%20án/docs/03_transaction_screen.png)
+  ![Màn hình Nghiệp vụ](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20tiến%20độ%20dự%20án/docs/03_transaction_screen.png)
 * **Màn hình Báo cáo - Thống kê:**
-  ![Màn hình Thống kê](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20dự%20án/docs/04_report_screen.png)
+  ![Màn hình Thống kê](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20tiến%20độ%20dự%20án/docs/04_report_screen.png)
 * **Minh họa An toàn Dữ liệu / Transaction Rollback:**
-  ![Minh họa Xử lý lỗi](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20dự%20án/docs/05_error_handling.png)
+  ![Minh họa Xử lý lỗi](./Bài%20tập%206.3_Hệ%20thống%20quản%20lý%20công%20việc%20và%20tiến%20độ%20dự%20án/docs/05_error_handling.png)
 
 ---
 
-### 2. Bài 6.4: Hệ thống quản lý Garage và bảo dưỡng xe
+### 2. Bài 6.4: Hệ thống quản lý Garage và bảo dưỡng xe ô tô
 * **Màn hình Chính / Tổng quan:**
-  ![Màn hình chính](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe/docs/01_main_screen.png)
+  ![Màn hình chính](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe%20ô%20tô/docs/01_main_screen.png)
 * **Màn hình Quản lý Danh mục (CRUD):**
-  ![Màn hình CRUD](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe/docs/02_crud_screen.png)
+  ![Màn hình CRUD](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe%20ô%20tô/docs/02_crud_screen.png)
 * **Màn hình Thực thi Nghiệp vụ chính:**
-  ![Màn hình Nghiệp vụ](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe/docs/03_transaction_screen.png)
+  ![Màn hình Nghiệp vụ](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe%20ô%20tô/docs/03_transaction_screen.png)
 * **Màn hình Báo cáo - Thống kê:**
-  ![Màn hình Thống kê](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe/docs/04_report_screen.png)
+  ![Màn hình Thống kê](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe%20ô%20tô/docs/04_report_screen.png)
 * **Minh họa An toàn Dữ liệu / Transaction Rollback:**
-  ![Minh họa Xử lý lỗi](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe/docs/05_error_handling.png)
+  ![Minh họa Xử lý lỗi](./Bài%20tập%206.4_Hệ%20thống%20quản%20lý%20Garage%20và%20bảo%20dưỡng%20xe%20ô%20tô/docs/05_error_handling.png)
 
 ---
 
-### 3. Bài 6.5: Hệ thống quản lý đặt phòng và dịch vụ khách sạn
+### 3. Bài 6.5: Hệ thống quản lý đặt phòng và dịch vụ Karaoke
 * **Màn hình Chính / Tổng quan:**
-  ![Màn hình chính](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20khách%20sạn/docs/01_main_screen.png)
+  ![Màn hình chính](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20Karaoke/docs/01_main_screen.png)
 * **Màn hình Quản lý Danh mục (CRUD):**
-  ![Màn hình CRUD](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20khách%20sạn/docs/02_crud_screen.png)
+  ![Màn hình CRUD](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20Karaoke/docs/02_crud_screen.png)
 * **Màn hình Thực thi Nghiệp vụ chính:**
-  ![Màn hình Nghiệp vụ](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20khách%20sạn/docs/03_transaction_screen.png)
+  ![Màn hình Nghiệp vụ](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20Karaoke/docs/03_transaction_screen.png)
 * **Màn hình Báo cáo - Thống kê:**
-  ![Màn hình Thống kê](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20khách%20sạn/docs/04_report_screen.png)
+  ![Màn hình Thống kê](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20Karaoke/docs/04_report_screen.png)
 * **Minh họa An toàn Dữ liệu / Transaction Rollback:**
-  ![Minh họa Xử lý lỗi](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20khách%20sạn/docs/05_error_handling.png)
+  ![Minh họa Xử lý lỗi](./Bài%20tập%206.5_Hệ%20thống%20quản%20lý%20đặt%20phòng%20và%20dịch%20vụ%20Karaoke/docs/05_error_handling.png)
 
 ---
 
